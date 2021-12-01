@@ -1,0 +1,100 @@
+{
+  "configVersion": 1,
+  "timestamp": 1638385397363,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.9daaa9d21a3c88ae30bb.js",
+        "/main-es5.9daaa9d21a3c88ae30bb.js",
+        "/manifest.webmanifest",
+        "/polyfills-es2015.1f913f16a2d346cc8bdc.js",
+        "/polyfills-es5.1a3c78b07cd6f16c6e9a.js",
+        "/runtime-es2015.0811dcefd377500b5b1a.js",
+        "/runtime-es5.0811dcefd377500b5b1a.js",
+        "/styles.3ff695c00d717f2d2a11.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icons/favicon.ico",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/1.png",
+        "/assets/img/2.png",
+        "/assets/img/3.png",
+        "/assets/img/ban.png",
+        "/assets/img/logo.png",
+        "/assets/img/product1.jpg",
+        "/assets/img/product2.jpg",
+        "/assets/img/product3.jpg",
+        "/assets/img/product4.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/favicon.ico": "e417cdc992b7d74096b3e8d111bd04cb6b22898b",
+    "/assets/icons/icon-128x128.png": "a0e48baf3d54e6540200bf5a2e11df83f4116537",
+    "/assets/icons/icon-144x144.png": "c2c9306daea847c0dda6abbc7a8b7fb55d35d999",
+    "/assets/icons/icon-152x152.png": "3868a09b6f09e29f9e63aeac68d416ec6e8efadb",
+    "/assets/icons/icon-192x192.png": "33e883fa31f9f45cf3eaca265046a10dc8a4c2d3",
+    "/assets/icons/icon-384x384.png": "7311740b278d4101a165db3522aae250daa58a94",
+    "/assets/icons/icon-512x512.png": "a57e575b187175528feef35bb52acd7adabb7da6",
+    "/assets/icons/icon-72x72.png": "7fc39c076e897a8ee2b4ba506a8351e65b7617a6",
+    "/assets/icons/icon-96x96.png": "f7055f2dd7da178cc7dc6d24cd885be70dcc52c2",
+    "/assets/img/1.png": "acc0050a6b06bf1478d358eda8806d1c9c89e7ff",
+    "/assets/img/2.png": "725c4b22283044fffeea06d8dc3a224e5b0cee93",
+    "/assets/img/3.png": "0cb0bd2f7c11436bac3058fa7a097d3abf8b3ab2",
+    "/assets/img/ban.png": "d7d7bf4853b496a5fa2c0a9554c70e3341f6c995",
+    "/assets/img/logo.png": "b0451154309e9cce3f6153fc655a83ec074ce66d",
+    "/assets/img/product1.jpg": "8b37b41f97dde951a167bc5b8fc980143bbf4f96",
+    "/assets/img/product2.jpg": "4aa3b18acf4e49c57dd03d1926cf7248e1312077",
+    "/assets/img/product3.jpg": "d80e97c1d4db72d0dcce3ccbb95fbaf6eecd08e2",
+    "/assets/img/product4.jpg": "24e7f65cf021833d5b03620a0900f2c7db7cf5ab",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "b95e70727dd1bed29c056672e5327c9fa69b6d20",
+    "/main-es2015.9daaa9d21a3c88ae30bb.js": "c7d5002902c149230cb740b6c14366dad9b332ad",
+    "/main-es5.9daaa9d21a3c88ae30bb.js": "69f5ea791e385845e22df2398b82082f2c4280af",
+    "/manifest.webmanifest": "858c668af4ceb497b0510cf34220f4ddaba672a2",
+    "/polyfills-es2015.1f913f16a2d346cc8bdc.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/polyfills-es5.1a3c78b07cd6f16c6e9a.js": "61aa6b50157596c4e9c7eff44cfe76b22836d5a3",
+    "/runtime-es2015.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
